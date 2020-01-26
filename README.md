@@ -1,4 +1,4 @@
-﻿#Stock Market CLI
+# Stock Market CLI
 
 A simple command-line interface that retrieves information based on two parameters:
 
